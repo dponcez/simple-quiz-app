@@ -1,0 +1,146 @@
+[
+  {
+    "Question": "Who was the creator of JavaScript?",
+    "optionA": "Brendan Eich",
+    "optionB": "James Gosling",
+    "optionC": "Anders Hejlsberg",
+    "optionD": "None of the above",
+    "answer": "Brendan Eich"
+  },
+  {
+    "Question": "What year was Python first released?",
+    "optionA": "1989",
+    "optionB": "1991",
+    "optionC": "1993",
+    "optionD": "1995",
+    "answer": "1991"
+  },
+  {
+    "Question": "Which programming language is known for its use in statistical computing and graphics?",
+    "optionA": "R",
+    "optionB": "Java",
+    "optionC": "C++",
+    "optionD": "Ruby",
+    "answer": "R"
+  },
+  {
+    "Question": "Who developed the C programming language?",
+    "optionA": "Dennis Ritchie",
+    "optionB": "Ken Thompson",
+    "optionC": "Guido van Rossum",
+    "optionD": "Linus Torvalds",
+    "answer": "Dennis Ritchie"
+  },
+  {
+    "Question": "Which programming language is commonly used for web development?",
+    "optionA": "HTML",
+    "optionB": "CSS",
+    "optionC": "JavaScript",
+    "optionD": "PHP",
+    "answer": "JavaScript"
+  },
+  {
+    "Question": "Which programming language is known for its use in artificial intelligence and machine learning?",
+    "optionA": "Java",
+    "optionB": "Python",
+    "optionC": "C#",
+    "optionD": "Swift",
+    "answer": "Python"
+  },
+  {
+    "Question": "Who created the Ruby programming language?",
+    "optionA": "Yukihiro Matsumoto",
+    "optionB": "Larry Wall",
+    "optionC": "Guido van Rossum",
+    "optionD": "Brendan Eich",
+    "answer": "Yukihiro Matsumoto"
+  },
+  {
+    "Question": "What year was the first version of Java released?",
+    "optionA": "1993",
+    "optionB": "1995",
+    "optionC": "1997",
+    "optionD": "1999",
+    "asnwer": "1995"
+  },
+  {
+    "Question": "Which programming language is known for its use in system administration and automation?",
+    "optionA": "Perl",
+    "optionB": "Ruby",
+    "optionC": "C++",
+    "optionD": "Java",
+    "answer": "Java"
+  },
+  {
+    "Question": "Who developed the PHP programming language?",
+    "optionA": "Rasmus Lerdorf",
+    "optionB": "Bjarne Stroustrup",
+    "optionC": "James Gosling",
+    "optionD": "Anders Hejlsberg",
+    "answer": "Rasmus Lerdorf"
+  },
+  {
+    "Question": "What was the first programming language?",
+    "optionA": "Fortran",
+    "optionB": "C",
+    "optionC": "Assembly",
+    "optionD": "Plankalkül",
+    "answer": "Plankalkül"
+  },
+  {
+    "Question": "Which programming language is known for its use in artificial intelligence?",
+    "optionA": "Python",
+    "optionB": "Java",
+    "optionC": "C++",
+    "optionD": "JavaScript",
+    "answer": "Python"
+  },
+  {
+    "Question": "When was created the first programming language?",
+    "optionA": "1991",
+    "optionB": "1982",
+    "optionC": "1940",
+    "optionD": "2002",
+    "answer": "1940"
+  },
+  {
+    "Question": "Who developed the C programming language?",
+    "optionA": "Dennis Ritchie",
+    "optionB": "Ken Thompson",
+    "optionC": "Bjarne Stroustrup",
+    "optionD": "Charlie Mathews",
+    "answer": "Dennis Ritchie"
+  },
+  {
+    "Question": "Which programming language is known for its use in data analysis and statistics?",
+    "optionA": "R",
+    "optionB": "Ruby",
+    "optionC": "Perl",
+    "optionD": "None of the above",
+    "answer": "R"
+  },
+  {
+    "Question": "What was the first high-level programming language?",
+    "optionA": "Fortran",
+    "optionB": "Cobol",
+    "optionC": "Lisp",
+    "optionD": "Java",
+    "answer": "Fortran"
+  },
+  {
+    "Question": "Who developed the Python programming language?",
+    "optionA": "Guido van Rossum",
+    "optionB": "Linus Torvalds",
+    "optionC": "Larry Wall",
+    "optionD": "Me",
+    "answer": "Guido van Rossum"
+  },
+  {
+    "Question": "Which programming language is known for its use in game development?",
+    "optionA": "C++",
+    "optionB": "Java",
+    "optionC": "Python",
+    "optionD": "None of the above",
+    "answer": "C++"
+  }
+]
