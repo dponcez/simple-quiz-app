@@ -1,6 +1,6 @@
 [
   {
-    "Question": "Who was the creator of JavaScript?",
+    "question": "Who was the creator of JavaScript?",
     "optionA": "Brendan Eich",
     "optionB": "James Gosling",
     "optionC": "Anders Hejlsberg",
@@ -8,7 +8,7 @@
     "answer": "Brendan Eich"
   },
   {
-    "Question": "What year was Python first released?",
+    "question": "What year was Python first released?",
     "optionA": "1989",
     "optionB": "1991",
     "optionC": "1993",
@@ -16,7 +16,7 @@
     "answer": "1991"
   },
   {
-    "Question": "Which programming language is known for its use in statistical computing and graphics?",
+    "question": "Which programming language is known for its use in statistical computing and graphics?",
     "optionA": "R",
     "optionB": "Java",
     "optionC": "C++",
@@ -24,7 +24,7 @@
     "answer": "R"
   },
   {
-    "Question": "Who developed the C programming language?",
+    "question": "Who developed the C programming language?",
     "optionA": "Dennis Ritchie",
     "optionB": "Ken Thompson",
     "optionC": "Guido van Rossum",
@@ -32,7 +32,7 @@
     "answer": "Dennis Ritchie"
   },
   {
-    "Question": "Which programming language is commonly used for web development?",
+    "question": "Which programming language is commonly used for web development?",
     "optionA": "HTML",
     "optionB": "CSS",
     "optionC": "JavaScript",
@@ -40,7 +40,7 @@
     "answer": "JavaScript"
   },
   {
-    "Question": "Which programming language is known for its use in artificial intelligence and machine learning?",
+    "question": "Which programming language is known for its use in artificial intelligence and machine learning?",
     "optionA": "Java",
     "optionB": "Python",
     "optionC": "C#",
@@ -48,7 +48,7 @@
     "answer": "Python"
   },
   {
-    "Question": "Who created the Ruby programming language?",
+    "question": "Who created the Ruby programming language?",
     "optionA": "Yukihiro Matsumoto",
     "optionB": "Larry Wall",
     "optionC": "Guido van Rossum",
@@ -56,7 +56,7 @@
     "answer": "Yukihiro Matsumoto"
   },
   {
-    "Question": "What year was the first version of Java released?",
+    "question": "What year was the first version of Java released?",
     "optionA": "1993",
     "optionB": "1995",
     "optionC": "1997",
@@ -64,7 +64,7 @@
     "asnwer": "1995"
   },
   {
-    "Question": "Which programming language is known for its use in system administration and automation?",
+    "question": "Which programming language is known for its use in system administration and automation?",
     "optionA": "Perl",
     "optionB": "Ruby",
     "optionC": "C++",
@@ -72,7 +72,7 @@
     "answer": "Java"
   },
   {
-    "Question": "Who developed the PHP programming language?",
+    "question": "Who developed the PHP programming language?",
     "optionA": "Rasmus Lerdorf",
     "optionB": "Bjarne Stroustrup",
     "optionC": "James Gosling",
@@ -80,7 +80,7 @@
     "answer": "Rasmus Lerdorf"
   },
   {
-    "Question": "What was the first programming language?",
+    "question": "What was the first programming language?",
     "optionA": "Fortran",
     "optionB": "C",
     "optionC": "Assembly",
@@ -88,7 +88,7 @@
     "answer": "Plankalkül"
   },
   {
-    "Question": "Which programming language is known for its use in artificial intelligence?",
+    "question": "Which programming language is known for its use in artificial intelligence?",
     "optionA": "Python",
     "optionB": "Java",
     "optionC": "C++",
@@ -96,7 +96,7 @@
     "answer": "Python"
   },
   {
-    "Question": "When was created the first programming language?",
+    "question": "When was created the first programming language?",
     "optionA": "1991",
     "optionB": "1982",
     "optionC": "1940",
@@ -104,7 +104,7 @@
     "answer": "1940"
   },
   {
-    "Question": "Who developed the C programming language?",
+    "question": "Who developed the C programming language?",
     "optionA": "Dennis Ritchie",
     "optionB": "Ken Thompson",
     "optionC": "Bjarne Stroustrup",
@@ -112,7 +112,7 @@
     "answer": "Dennis Ritchie"
   },
   {
-    "Question": "Which programming language is known for its use in data analysis and statistics?",
+    "question": "Which programming language is known for its use in data analysis and statistics?",
     "optionA": "R",
     "optionB": "Ruby",
     "optionC": "Perl",
@@ -120,7 +120,7 @@
     "answer": "R"
   },
   {
-    "Question": "What was the first high-level programming language?",
+    "question": "What was the first high-level programming language?",
     "optionA": "Fortran",
     "optionB": "Cobol",
     "optionC": "Lisp",
@@ -128,7 +128,7 @@
     "answer": "Fortran"
   },
   {
-    "Question": "Who developed the Python programming language?",
+    "question": "Who developed the Python programming language?",
     "optionA": "Guido van Rossum",
     "optionB": "Linus Torvalds",
     "optionC": "Larry Wall",
@@ -136,7 +136,7 @@
     "answer": "Guido van Rossum"
   },
   {
-    "Question": "Which programming language is known for its use in game development?",
+    "question": "Which programming language is known for its use in game development?",
     "optionA": "C++",
     "optionB": "Java",
     "optionC": "Python",
