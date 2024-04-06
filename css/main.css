@@ -25,7 +25,7 @@ button { border: none; }
   display: flex;
   justify-content: center;
   .quiz--container {
-    max-width: 40rem;
+    max-width: 45rem;
     width: var(--sz);
     height: auto;
     padding-inline: var(--pd);
@@ -41,30 +41,28 @@ button { border: none; }
   border: none;
   box-shadow: .25vmin .25vmin 5pt rgba(0 0 0 / .75) inset;
   .legend {
-    font: 800 var(--fnt-sz) var(--fnt-play);
+    font: 800 clamp(3vmin, var(--fnt-sz), 8vmin) var(--fnt-play);
     text-transform: capitalize;
     color: var(--primary-color);
     position: relative;
     z-index: 2;
     &::before {
       content: '';
+      width: var(--sz);
+      height: 3rem;
       position: absolute;
       inset: 50%;
       transform: translate(-50%, -50%);
       background-color: var(--bg);
-      width: calc(100% - 1rem);
-      height: 3rem;
       z-index: -1
     }
   }
+
   .heading {
-    margin-block-end: var(--pd);
-    font: 600 var(--pd) var(--fnt-play);
+    padding-block-end: var(--pd);
+    margin-inline-start: calc(var(--pd) * .5);
+    font: 600 clamp(3vmin, 3.5vmin, 6vmin) var(--fnt-play);
     color: var(--secondary-color);
-    .number {
-      color: hsl(100 0% 0%);
-      font-weight: bold;
-    }
   }
   .option--container {
     display: flex;
@@ -91,7 +89,7 @@ button { border: none; }
     .option {
       display: block;
       margin-inline-start: 3pt;
-      font: 400 calc(var(--pd) *  .95) var(--fnt-abel);
+      font: 400 clamp(2vmin, calc(5vmin * .95), 3.25vmin) var(--fnt-abel);
       &::first-letter { text-transform: uppercase; }
     }
   }
