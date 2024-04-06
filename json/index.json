@@ -1,11 +1,19 @@
 [
   {
+    "question": "What is the purpose of the AI (Artifitial Intelligent) in our days?",
+    "optionA": "it helps us facilitate the digital transformation in our society",
+    "optionB": "Help people to find a good job",
+    "optionC": "Build a house",
+    "optionD": "None of the above",
+    "correct": "optionA"
+  },
+  {
     "question": "Who was the creator of JavaScript?",
     "optionA": "Brendan Eich",
     "optionB": "James Gosling",
     "optionC": "Anders Hejlsberg",
     "optionD": "None of the above",
-    "answer": "Brendan Eich"
+    "correct": "optionA"
   },
   {
     "question": "What year was Python first released?",
@@ -13,7 +21,7 @@
     "optionB": "1991",
     "optionC": "1993",
     "optionD": "1995",
-    "answer": "1991"
+    "correct": "optionB"
   },
   {
     "question": "Which programming language is known for its use in statistical computing and graphics?",
@@ -21,7 +29,7 @@
     "optionB": "Java",
     "optionC": "C++",
     "optionD": "Ruby",
-    "answer": "R"
+    "correct": "optionA"
   },
   {
     "question": "Who developed the C programming language?",
@@ -29,7 +37,7 @@
     "optionB": "Ken Thompson",
     "optionC": "Guido van Rossum",
     "optionD": "Linus Torvalds",
-    "answer": "Dennis Ritchie"
+    "correct": "optionA"
   },
   {
     "question": "Which programming language is commonly used for web development?",
@@ -37,7 +45,7 @@
     "optionB": "CSS",
     "optionC": "JavaScript",
     "optionD": "PHP",
-    "answer": "JavaScript"
+    "correct": "optionC"
   },
   {
     "question": "Which programming language is known for its use in artificial intelligence and machine learning?",
@@ -45,7 +53,7 @@
     "optionB": "Python",
     "optionC": "C#",
     "optionD": "Swift",
-    "answer": "Python"
+    "correct": "optionB"
   },
   {
     "question": "Who created the Ruby programming language?",
@@ -53,7 +61,7 @@
     "optionB": "Larry Wall",
     "optionC": "Guido van Rossum",
     "optionD": "Brendan Eich",
-    "answer": "Yukihiro Matsumoto"
+    "correct": "optionA"
   },
   {
     "question": "What year was the first version of Java released?",
@@ -61,7 +69,7 @@
     "optionB": "1995",
     "optionC": "1997",
     "optionD": "1999",
-    "asnwer": "1995"
+    "asnwer": "optionB"
   },
   {
     "question": "Which programming language is known for its use in system administration and automation?",
@@ -69,7 +77,7 @@
     "optionB": "Ruby",
     "optionC": "C++",
     "optionD": "Java",
-    "answer": "Java"
+    "correct": "optionD"
   },
   {
     "question": "Who developed the PHP programming language?",
@@ -77,7 +85,7 @@
     "optionB": "Bjarne Stroustrup",
     "optionC": "James Gosling",
     "optionD": "Anders Hejlsberg",
-    "answer": "Rasmus Lerdorf"
+    "correct": "optionA"
   },
   {
     "question": "What was the first programming language?",
@@ -85,7 +93,7 @@
     "optionB": "C",
     "optionC": "Assembly",
     "optionD": "Plankalkül",
-    "answer": "Plankalkül"
+    "correct": "optionD"
   },
   {
     "question": "Which programming language is known for its use in artificial intelligence?",
@@ -93,7 +101,7 @@
     "optionB": "Java",
     "optionC": "C++",
     "optionD": "JavaScript",
-    "answer": "Python"
+    "correct": "optionA"
   },
   {
     "question": "When was created the first programming language?",
@@ -101,7 +109,7 @@
     "optionB": "1982",
     "optionC": "1940",
     "optionD": "2002",
-    "answer": "1940"
+    "correct": "optionC"
   },
   {
     "question": "Who developed the C programming language?",
@@ -109,7 +117,7 @@
     "optionB": "Ken Thompson",
     "optionC": "Bjarne Stroustrup",
     "optionD": "Charlie Mathews",
-    "answer": "Dennis Ritchie"
+    "correct": "optionA"
   },
   {
     "question": "Which programming language is known for its use in data analysis and statistics?",
@@ -117,7 +125,7 @@
     "optionB": "Ruby",
     "optionC": "Perl",
     "optionD": "None of the above",
-    "answer": "R"
+    "correct": "optionA"
   },
   {
     "question": "What was the first high-level programming language?",
@@ -125,7 +133,7 @@
     "optionB": "Cobol",
     "optionC": "Lisp",
     "optionD": "Java",
-    "answer": "Fortran"
+    "correct": "optionA"
   },
   {
     "question": "Who developed the Python programming language?",
@@ -133,7 +141,7 @@
     "optionB": "Linus Torvalds",
     "optionC": "Larry Wall",
     "optionD": "Me",
-    "answer": "Guido van Rossum"
+    "correct": "optionA"
   },
   {
     "question": "Which programming language is known for its use in game development?",
@@ -141,6 +149,6 @@
     "optionB": "Java",
     "optionC": "Python",
     "optionD": "None of the above",
-    "answer": "C++"
+    "correct": "optionA"
   }
 ]
