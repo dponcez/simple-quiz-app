@@ -6,7 +6,7 @@
   --fnt-sz: calc((var(--pd) / 4) * var(--unit));
   --fnt-play: 'Play', sans-serif;
   --fnt-abel: 'Abel', sans-serif;
-  --primary-color: hsl(96, 13%, 56%);
+  --primary-color: hsl(196, 13%, 56%);
   --secondary-color: hsl(250, 9%, 25%);
   --bg: hsl(192, 15%, 94%);
   --blue: hsl(202, 88%, 27%)
@@ -48,7 +48,7 @@ button { border: none; }
     z-index: 2;
     &::before {
       content: '';
-      width: var(--sz);
+      width: calc(var(--sz) - 7pt);
       height: 3rem;
       position: absolute;
       inset: 50%;
@@ -100,7 +100,7 @@ button { border: none; }
     width: var(--sz);
     max-width: 6rem;
     padding-block: calc(var(--pd) * .15);
-    margin-block-start: var(--pd);
+    margin-block-start: calc(var(--pd) * 1.5);
     font: 600 var(--pd) var(--fnt-play);
     line-height: 1.5;
     text-transform: uppercase;
