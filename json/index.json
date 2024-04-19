@@ -24,6 +24,14 @@
     "correct": "optionB"
   },
   {
+    "question": "What is the output of the following code? console.log((5 + 7) * 3 + '2')",
+    "optionA": "36",
+    "optionB": "27",
+    "optionC": "TypeError message",
+    "optionD": "362",
+    "correct": "optionD"
+  },
+  {
     "question": "Which programming language is known for its use in statistical computing and graphics?",
     "optionA": "R",
     "optionB": "Java",
@@ -37,6 +45,14 @@
     "optionB": "Ken Thompson",
     "optionC": "Guido van Rossum",
     "optionD": "Linus Torvalds",
+    "correct": "optionA"
+  },
+  {
+    "question": "What is the purpose of the &lt;label&gt; element?",
+    "optionA": "Is used for add caption on form element",
+    "optionB": "It create a table",
+    "optionC": "A noun",
+    "optionD": "It create unordered list",
     "correct": "optionA"
   },
   {
@@ -54,6 +70,14 @@
     "optionC": "C#",
     "optionD": "Swift",
     "correct": "optionB"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "optionA": "High Total Manufacturing Location",
+    "optionB": "High Tolerance Master Left",
+    "optionC": "HyperText Markup Language",
+    "optionD": "HyperTotal Markup Language",
+    "correct": "optionC"
   },
   {
     "question": "Who created the Ruby programming language?",
